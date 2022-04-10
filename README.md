@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🤔 I’m new in coding field and I find it really challenging but attractive.
+- 💬 I'm interested in Data Science, Business Analytics and Quantative Trading.
+
 <!--
 **Iron-fence/Iron-fence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
