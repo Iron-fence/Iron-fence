@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jeremy Sun, a sophomore undergraduate at University of Nottingham Ningbo China, majoring in Computer Science.
+My name is Jeremy Sun, a junior undergraduate at University of Nottingham Ningbo China, majoring in Computer Science.
 
 - 🤔 I’m new in coding field and I find it really challenging but attractive.
 - 💬 I'm interested in Data Science, Business Analytics and Quantitative Trading.
