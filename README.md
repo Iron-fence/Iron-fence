@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Jeremy Sun, a junior undergraduate at University of Nottingham Ningbo China, majoring in Computer Science.
+My name is Jeremy Sun, a senior undergraduate at University of Nottingham Ningbo China, majoring in Computer Science with Artificial Intelligence.
 
 - 🤔 I’m new in coding field and I find it really challenging but attractive.
-- 💬 I'm interested in Data Science, Business Analytics and Quantitative Trading.
-- 🔭 I'm currently doing research related to Natural Language Processing.
+- 💬 I'm interested in Data Science and Machine Learning, especially in the health field.
+- 🔭 I'm currently doing research related to Natural Language Processing and Health Informatics.
 
 <!--
 **Iron-fence/Iron-fence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
