@@ -3,7 +3,7 @@
 My name is Jeremy Sun, a senior undergraduate at University of Nottingham Ningbo China, majoring in Computer Science with Artificial Intelligence.
 
 - 🤔 I’m new in coding field and I find it really challenging but attractive.
-- 💬 I'm interested in Data Science and Machine Learning, especially in the health field.
+- 💬 I'm interested in Data Science and Machine Learning, especially in the healthcare domain.
 - 🔭 I'm currently doing research related to Natural Language Processing and Health Informatics.
 
 <!--
